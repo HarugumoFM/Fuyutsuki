@@ -1,0 +1,8 @@
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\obj\Debug\net5.0\Fuyutsuki.AssemblyInfoInputs.cache
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\obj\Debug\net5.0\Fuyutsuki.AssemblyInfo.cs
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\obj\Debug\net5.0\Fuyutsuki.csproj.CoreCompileInputs.cache
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\bin\Debug\net5.0\Fuyutsuki.deps.json
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\bin\Debug\net5.0\Fuyutsuki.dll
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\bin\Debug\net5.0\Fuyutsuki.pdb
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\obj\Debug\net5.0\Fuyutsuki.dll
+C:\Users\yasos\Documents\atelier\宵月\Fuyutsyki.Test\Fuyutsuki\obj\Debug\net5.0\Fuyutsuki.pdb
