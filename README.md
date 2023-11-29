@@ -1,3 +1,5 @@
 # Fuyutsuki
-基本的なニューラルネットワークは動くライブラリです
-RNN使ったSeq2Seqが動かないので今は放置中
+deep Learningの根本の理解のために
+ゼロから作るDeepLearningのDeZeroとNumpyの一部関数を
+スクラッチしたものです。
+現在はTorchSharpのシステム理解のため、放置中
